@@ -50,7 +50,7 @@ bun run validate
 
 ## Architecture
 
-See [CLAUDE.md](./CLAUDE.md) for detailed architecture documentation.
+See [CLAUDE.md](./CLAUDE.md) for the package layering, engineering conventions and known gotchas; the generated reference lives in the sources it comes from (`ls packages/*/src`, `bun run cli --help`, `GET /api/openapi.json`, `packages/docs-web/`).
 
 ## Questions?
 
